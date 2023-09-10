@@ -1,0 +1,29 @@
+div{
+    background-color: rgb(215, 239, 250);
+    text-align: center;
+    
+}
+
+.cal{
+    margin: auto;
+    height: auto;
+    color: white;
+    background-color:blue;
+    display: block;
+    text-align: center;
+    font-size: 25px;
+    
+}
+.SE{
+    margin: auto;
+    font-size: 25px;
+}
+.ANS{
+    font-size: 25px;
+}
+#answer{
+    font-size:  25px;
+}
+.bans{
+    padding-bottom: 20px;
+}
